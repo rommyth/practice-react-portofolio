@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/practice-react-portofolio/static/css/main.2e89b1f0.css",
+    "main.css": "/practice-react-portofolio/static/css/main.86ab00ea.css",
     "main.js": "/practice-react-portofolio/static/js/main.6ab9f5ac.js",
     "static/media/portofolio-6.png": "/practice-react-portofolio/static/media/portofolio-6.08887abbab1d2ece0d42.png",
     "static/media/portofolio-3.png": "/practice-react-portofolio/static/media/portofolio-3.76596899d8fce69e30ae.png",
@@ -13,11 +13,11 @@
     "static/media/me-about.jpg": "/practice-react-portofolio/static/media/me-about.c14886d145447e24e693.jpg",
     "static/media/logo.svg": "/practice-react-portofolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/practice-react-portofolio/index.html",
-    "main.2e89b1f0.css.map": "/practice-react-portofolio/static/css/main.2e89b1f0.css.map",
+    "main.86ab00ea.css.map": "/practice-react-portofolio/static/css/main.86ab00ea.css.map",
     "main.6ab9f5ac.js.map": "/practice-react-portofolio/static/js/main.6ab9f5ac.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e89b1f0.css",
+    "static/css/main.86ab00ea.css",
     "static/js/main.6ab9f5ac.js"
   ]
 }
