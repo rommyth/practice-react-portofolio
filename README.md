@@ -5,4 +5,4 @@ Dalam section Contact, saya menggunakan EmailJS. <br>
 Dalam secition Testimonials, saya menggunakan SwipperJS. <br>
 <br>
 Link Live Demo : <br>
-https://webicat.github.io/practice-react-portofolio/
+https://rommyth.github.io/practice-react-portofolio/
